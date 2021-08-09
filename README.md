@@ -8,5 +8,6 @@
  - LiveData
  - Retrieve data from Restful service with coroutines (RETROFIT library)
  - Process json response with moshi to show it on UI using LiveData
- #TODO
+ 
+ ##TODO
  - Implement ROOM and repositories
