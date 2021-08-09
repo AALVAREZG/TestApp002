@@ -39,7 +39,7 @@ class MainFragment : Fragment() {
         // data in the VieWModel
         binding.mainViewModel = viewModel
 
-
         return binding.root
+
     }
 }
